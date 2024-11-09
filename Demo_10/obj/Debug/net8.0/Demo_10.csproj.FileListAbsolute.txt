@@ -1,0 +1,14 @@
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/bin/Debug/net8.0/Demo_10
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/bin/Debug/net8.0/Demo_10.deps.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/bin/Debug/net8.0/Demo_10.runtimeconfig.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/bin/Debug/net8.0/Demo_10.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/bin/Debug/net8.0/Demo_10.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/obj/Debug/net8.0/Demo_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/obj/Debug/net8.0/Demo_10.AssemblyInfoInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/obj/Debug/net8.0/Demo_10.AssemblyInfo.cs
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/obj/Debug/net8.0/Demo_10.csproj.CoreCompileInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/obj/Debug/net8.0/Demo_10.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/obj/Debug/net8.0/refint/Demo_10.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/obj/Debug/net8.0/Demo_10.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/obj/Debug/net8.0/Demo_10.genruntimeconfig.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_modul_01_Vidin/Demo_10/obj/Debug/net8.0/ref/Demo_10.dll
