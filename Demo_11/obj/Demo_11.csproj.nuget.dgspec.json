@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivelindilqnovmihaylov/RiderProjects/CShap_IT_Career_10_class/Demo_11/Demo_11.csproj": {}
+    "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_IT_Career_10_class/Demo_11/Demo_11.csproj": {}
   },
   "projects": {
-    "/Users/ivelindilqnovmihaylov/RiderProjects/CShap_IT_Career_10_class/Demo_11/Demo_11.csproj": {
+    "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_IT_Career_10_class/Demo_11/Demo_11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivelindilqnovmihaylov/RiderProjects/CShap_IT_Career_10_class/Demo_11/Demo_11.csproj",
+        "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_IT_Career_10_class/Demo_11/Demo_11.csproj",
         "projectName": "Demo_11",
-        "projectPath": "/Users/ivelindilqnovmihaylov/RiderProjects/CShap_IT_Career_10_class/Demo_11/Demo_11.csproj",
+        "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_IT_Career_10_class/Demo_11/Demo_11.csproj",
         "packagesPath": "/Users/ivelindilqnovmihaylov/.nuget/packages/",
-        "outputPath": "/Users/ivelindilqnovmihaylov/RiderProjects/CShap_IT_Career_10_class/Demo_11/obj/",
+        "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_IT_Career_10_class/Demo_11/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ivelindilqnovmihaylov/.nuget/NuGet/NuGet.Config"

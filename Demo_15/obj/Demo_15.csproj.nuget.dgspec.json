@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/yordan/Projects/School/IT_Kariera/CShap_IT_Career_10_class/Demo_15/Demo_15.csproj": {}
+    "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_IT_Career_10_class/Demo_15/Demo_15.csproj": {}
   },
   "projects": {
-    "/home/yordan/Projects/School/IT_Kariera/CShap_IT_Career_10_class/Demo_15/Demo_15.csproj": {
+    "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_IT_Career_10_class/Demo_15/Demo_15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yordan/Projects/School/IT_Kariera/CShap_IT_Career_10_class/Demo_15/Demo_15.csproj",
+        "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_IT_Career_10_class/Demo_15/Demo_15.csproj",
         "projectName": "Demo_15",
-        "projectPath": "/home/yordan/Projects/School/IT_Kariera/CShap_IT_Career_10_class/Demo_15/Demo_15.csproj",
-        "packagesPath": "/home/yordan/.nuget/packages/",
-        "outputPath": "/home/yordan/Projects/School/IT_Kariera/CShap_IT_Career_10_class/Demo_15/obj/",
+        "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_IT_Career_10_class/Demo_15/Demo_15.csproj",
+        "packagesPath": "/Users/ivelindilqnovmihaylov/.nuget/packages/",
+        "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/CShap_IT_Career_10_class/Demo_15/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/yordan/.nuget/NuGet/NuGet.Config"
+          "/Users/ivelindilqnovmihaylov/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.8_1/libexec/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
