@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# 
+#
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_01", "Demo_01\Demo_01.csproj", "{08A97240-C3AB-49CB-B928-0C8EC8883372}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_02", "Demo_02\Demo_02.csproj", "{EF192487-4A58-4805-8127-880B539B970A}"
@@ -26,10 +26,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_12", "Demo_12\Demo_12.csproj", "{B40C33BB-45CB-4BAF-842F-8795C8B4C054}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_13", "Demo_13\Demo_13.csproj", "{C908CA10-5104-4DCD-A412-0D21EBEEA8A1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_14", "Demo_14\Demo_14.csproj", "{8C025DCB-7976-40BE-BCCD-EDDDA6CB6EA5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_15", "Demo_15\Demo_15.csproj", "{9F1B08A1-6921-4051-9095-BA098BAE35F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -89,13 +85,5 @@ Global
 		{C908CA10-5104-4DCD-A412-0D21EBEEA8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C908CA10-5104-4DCD-A412-0D21EBEEA8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C908CA10-5104-4DCD-A412-0D21EBEEA8A1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8C025DCB-7976-40BE-BCCD-EDDDA6CB6EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8C025DCB-7976-40BE-BCCD-EDDDA6CB6EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8C025DCB-7976-40BE-BCCD-EDDDA6CB6EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8C025DCB-7976-40BE-BCCD-EDDDA6CB6EA5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9F1B08A1-6921-4051-9095-BA098BAE35F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F1B08A1-6921-4051-9095-BA098BAE35F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F1B08A1-6921-4051-9095-BA098BAE35F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F1B08A1-6921-4051-9095-BA098BAE35F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
